@@ -4,7 +4,7 @@ Este é um sistema especialista que avalia a compatibilidade de doadores e recep
 
 ### Pré-requisitos
 - Python 3.x
-- Biblioteca `pyswip` para integração Python-Prolog
+- Biblioteca _pyswip_ para integração Python-Prolog
 - SWI-Prolog instalado e configurado
-- Biblioteca `tkinter` (geralmente incluída por padrão com o Python)
+- Biblioteca _tkinter_ (geralmente incluída por padrão com o Python)
 
